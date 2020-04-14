@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+This project is a registration form which communicates using API calls. The user registers into the form with the name, email and password details and this information is sent to the server and saved in a database. Once the data is logged a response is sent back according to the inputs provided.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
